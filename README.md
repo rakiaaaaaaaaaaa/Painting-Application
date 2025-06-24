@@ -2,7 +2,7 @@
 
 The project is live at:
 
-**[https://vercel.com/raras-projects-c09efb7e/v0-microsoft-paint](https://vercel.com/raras-projects-c09efb7e/v0-microsoft-paint)**
+**https://calender-app-rakia.vercel.app/**
 
 ## Painting Application
 
