@@ -1,30 +1,21 @@
-# Microsoft Paint
-
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/raras-projects-c09efb7e/v0-microsoft-paint)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/5oBioOa0cc8)
-
-## Overview
-
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
 
 ## Deployment
 
-Your project is live at:
+The project is live at:
 
 **[https://vercel.com/raras-projects-c09efb7e/v0-microsoft-paint](https://vercel.com/raras-projects-c09efb7e/v0-microsoft-paint)**
 
-## Build your app
+## Painting Application
 
-Continue building your app on:
+This is a browser-based painting application built using TypeScript, JavaScript, and CSS. It allows users to draw, paint, and express their creativity directly on a digital canvas with a variety of tools and features.
 
-**[https://v0.dev/chat/projects/5oBioOa0cc8](https://v0.dev/chat/projects/5oBioOa0cc8)**
+## Key Features:
 
-## How It Works
+Developed with TypeScript for improved code safety and scalability.
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+
+Customizable brush sizes, colors, and tools.
+
+Clean and responsive CSS-based interface optimized for both desktop and mobile devices.
+
+Lightweight, fast, and easy to use.
