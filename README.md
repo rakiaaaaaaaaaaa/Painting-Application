@@ -2,7 +2,7 @@
 
 The project is live at:
 
-**https://calender-app-rakia.vercel.app/**
+**https://painting-application-rakia.vercel.app/**
 
 ## Painting Application
 
